@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=+5V Pin=Sensor ultrassônico-1
+Removed Pin From Net: NetName=D34 Pin=Sensor ultrassônico-2
+Removed Pin From Net: NetName=D35 Pin=Sensor ultrassônico-3
+Removed Pin From Net: NetName=GND Pin=Sensor ultrassônico-4
+Change Component Footprint: Designator=Sensor ultrassônico Old Footprint=XCVR_HC-SR04 New Footprint=JST-S4B-XH-A(LF)(SN)_V
+Change Component Comment : Designator=Sensor ultrassônico Old Comment=HC-SR04 New Comment=S4B-XH-A(LF)(SN)
+Change Managed Component Library Link : Designator=Sensor ultrassônico Old VaultGUID= New VaultGUID=DE97EFE3-F956-4F6C-BD15-5887BFDC9376 Old ItemGUID= New ItemGUID=EAF9689C-86CA-4458-9901-06F04246955C Old RevisionGUID= New RevisionGUID=1A337D5A-AB4C-4525-8528-ADE84AA43B2C
+Change component parameters: Designator = "Sensor ultrassônico" ("Sensor ultrassônico"); Footprint = "XCVR_HC-SR04"; UniqueID = "\JDMEQTCY" ("\JDMEQTCY")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "XH Series Disconnectable Crimp Style Connector, Pitch 2.5 mm, 1 x 4 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D35 Pin=Sensor ultrassônico-2
+Added Pin To Net: NetName=D34 Pin=Sensor ultrassônico-3
+Added Pin To Net: NetName=+5V Pin=Sensor ultrassônico-4
+Added Room: Name=Aureo_Schematic_v1

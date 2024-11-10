@@ -6,7 +6,9 @@ class Warnings:
     
         self.avisos = {
             "t": "Temperatura acima do limite.",
-            "p": "Compartimento aberto, por favor feche antes de concluir."
+            "p": "Compartimento aberto, por favor feche antes de concluir.",
+            "q": "Tropecei no caminho, minha localidade foi enviada para o aplicativo.",
+            "b": "Bateria fraca, verifique meu carregamento."
             # Adicione outros avisos e teclas conforme necessário
         }
         # Captura de eventos de teclado em toda a janela principal
